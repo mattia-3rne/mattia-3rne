@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mattia-3rne/mattia-3rne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mattia! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀\
+I'm a high school student🛠️, passionate about **machine learning**, **neuromorphic computing**, and **sustainable technology**.\
+Currently, I'm preparing to start my **Bachelor in Electrical Engineering and Information Technology at ETH Zurich** 🏫&#x20;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with Me
+
+- **LinkedIn** – [Connect with me!](https://ch.linkedin.com/in/mattia-erne) 💼
+- **Instagram**– [Follow for updates](https://www.instagram.com/mattia.3rne/profilecard) 🐦
+
+---
