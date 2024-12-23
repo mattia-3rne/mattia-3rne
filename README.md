@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! 🚀\
 I'm a high school student🛠️, passionate about **machine learning**, **neuromorphic computing**, and **sustainable technology**.\
-Currently, I'm preparing to start my **Bachelor in Electrical Engineering and Information Technology at ETH Zurich** 🏫&#x20;
+Currently, I'm preparing to start my **Bachelor in Electrical Engineering and Information Technology at ETH Zurich** 🏫
 
 ---
 
@@ -12,5 +12,14 @@ Currently, I'm preparing to start my **Bachelor in Electrical Engineering and In
 
 - **LinkedIn** – [Connect with me!](https://ch.linkedin.com/in/mattia-erne) 💼
 - **Instagram**– [Follow for updates](https://www.instagram.com/mattia.3rne/profilecard) 🐦
+
+---
+
+## 📚 Matura Thesis
+My Matura thesis focuses on **developing a machine learning curriculum** for high school students, making complex topics accessible and engaging. It introduces core ML concepts through practical examples and interactive projects.\
+[![Matura Thesis](https://img.shields.io/badge/GitHub-View%20Repository-blue?logo=github)](https://github.com/mattia-3rne/MA_MachineLearningCurriculum)
+
+Explore the **High School Machine Learning Curriculum** I developed, hosted on Notion. This resource hub is designed to help educators introduce machine learning concepts to students in an interactive and accessible way.\
+[![Notion Site](https://img.shields.io/badge/Notion-View%20Site-black?logo=notion)](https://mattia-erne.notion.site/High-School-Machine-Learning-Curriculum-A-Resource-Hub-For-Educators-13bd0dc06fea806fa924d097bf0de1a6)
 
 ---
