@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Mattia! 👋
 
 Welcome to my GitHub profile! 🚀\
