@@ -1,5 +1,5 @@
 <!-- Animated GIF -->
-<img src="https://github.com/user-attachments/assets/61d158c5-967c-4159-9384-eb87c9fc2b3a" width="340" height="170" style="object-fit:cover;">
+<img src="https://github.com/user-attachments/assets/61d158c5-967c-4159-9384-eb87c9fc2b3a" width="1280" height="300" style="object-fit:cover;">
 
 # Hi there, I'm Mattia! 👋
 
