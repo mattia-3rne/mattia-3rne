@@ -13,8 +13,8 @@ Currently, I'm preparing to start my **Bachelor in Electrical Engineering and In
 
 ---
 
-## 📚 Matura Thesis
-My Matura thesis focuses on **developing a machine learning curriculum** for high school students, making complex topics accessible and engaging. It introduces core ML concepts through practical examples and interactive projects.\
+## 📚 From Basics to Applications: A Machine Learning Curriculum for High School
+My Matura thesis focused on **developing a machine learning curriculum** for high school students, making complex topics accessible and engaging. It introduces core ML concepts through practical examples and interactive projects.\
 [![Matura Thesis](https://img.shields.io/badge/GitHub-View%20Repository-blue?logo=github)](https://github.com/mattia-3rne/MA_MachineLearningCurriculum)
 
 Explore the **High School Machine Learning Curriculum** I developed, hosted on Notion. This resource hub is designed to help educators introduce machine learning concepts to students in an interactive and accessible way.\
