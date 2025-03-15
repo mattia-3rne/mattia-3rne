@@ -1,7 +1,7 @@
 # Hi there, I'm Mattia! 👋
 
 Welcome to my GitHub profile! 🚀\
-I'm a high school student🛠️, passionate about **machine learning**, **neuromorphic computing**, and **sustainable technology**.\
+I'm a high school student🛠️, passionate about **machine learning**, **electrical engineering**, and **sustainable technology**.\
 Currently, I'm preparing to start my **Bachelor in Electrical Engineering and Information Technology at ETH Zurich** 🏫
 
 ---
