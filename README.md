@@ -20,7 +20,3 @@ Explore the **High School Machine Learning Curriculum** I developed, hosted on N
 [![Notion Site](https://img.shields.io/badge/Notion-View%20Site-black?logo=notion)](https://mattia-erne.notion.site/High-School-Machine-Learning-Curriculum-A-Resource-Hub-For-Educators-13bd0dc06fea806fa924d097bf0de1a6)
 
 ---
-<!-- Animated GIF -->
-<img src="https://github.com/user-attachments/assets/61d158c5-967c-4159-9384-eb87c9fc2b3a" width="1280" height="300" style="object-fit:cover;">
-
----
