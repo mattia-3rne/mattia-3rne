@@ -9,7 +9,6 @@ Currently, I'm preparing to start my **Bachelor in Electrical Engineering and In
 ### 🌐 Connect with Me
 
 - **LinkedIn** – [Connect with me!](https://ch.linkedin.com/in/mattia-erne) 💼
-- **Instagram**– [Follow for updates](https://www.instagram.com/mattia.3rne/profilecard) 🐦
 
 ---
 
