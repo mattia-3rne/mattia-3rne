@@ -1,22 +1,23 @@
-# Hi there, I'm Mattia! 👋
+# About Me
 
-Welcome to my GitHub profile! 🚀\
-I'm a high school student🛠️, passionate about **machine learning**, **electrical engineering**, and **sustainable technology**.\
-Currently, I'm preparing to start my **Bachelor in Electrical Engineering and Information Technology at ETH Zurich** 🏫
+First-year **Electrical Engineering and Information Technology** student at **ETH Zürich**.  
 
 ---
 
-### 🌐 Connect with Me
+### Tools & Languages
+- **Languages:** Python, C++
+- **Tools:** CLion, PyCharm, Jupyter Notebook, LTSpice, GitHub  
+- **Python Libraries:** NumPy, SciPy, Pandas, Matplotlib, Keras, PyTorch, TensorFlow
 
-- **LinkedIn** – [Connect with me!](https://ch.linkedin.com/in/mattia-erne) 💼
+---
+
+### Interests
+- Machine learning and data analysis
+- Computational models of the brain
+- Circuit and network design  
 
 ---
 
-## 📚 From Basics to Applications: A Machine Learning Curriculum for High School
-My Matura thesis focused on **developing a machine learning curriculum** for high school students, making complex topics accessible and engaging. It introduces core ML concepts through practical examples and interactive projects.\
-[![Matura Thesis](https://img.shields.io/badge/GitHub-View%20Repository-blue?logo=github)](https://github.com/mattia-3rne/MA_MachineLearningCurriculum)
-
-Explore the **High School Machine Learning Curriculum** I developed, hosted on Notion. This resource hub is designed to help educators introduce machine learning concepts to students in an interactive and accessible way.\
-[![Notion Site](https://img.shields.io/badge/Notion-View%20Site-black?logo=notion)](https://mattia-erne.notion.site/High-School-Machine-Learning-Curriculum-A-Resource-Hub-For-Educators-13bd0dc06fea806fa924d097bf0de1a6)
-
----
+### Get in Touch
+- [E-Mail](mailto:mattia.erne@proton.me)
+- [LinkedIn](https://www.linkedin.com/in/mattia-erne)
