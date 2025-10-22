@@ -6,7 +6,7 @@ First-year **Electrical Engineering and Information Technology** student at **ET
 
 ### Tools & Languages
 - **Languages:** Python, C++, LaTeX
-- **Tools:** CLion, PyCharm, Jupyter Notebook, LTSpice, GitHub, Overleaf  
+- **Tools:** CLion, PyCharm, Webstorm, Jupyter Notebook, LTSpice, GitHub, Overleaf  
 - **Libraries:** NumPy, SciPy, Pandas, Matplotlib, Keras, PyTorch, TensorFlow
 
 ---
