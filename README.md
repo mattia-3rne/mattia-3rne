@@ -13,8 +13,7 @@ First-year **Electrical Engineering and Information Technology** student at **ET
 
 ### Interests
 - Machine learning and data analysis
-- Computational models of the brain
-- Circuit and network design  
+- Computational models of the brain  
 
 ---
 
