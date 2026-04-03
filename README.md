@@ -13,7 +13,7 @@ First-year **Electrical Engineering and Information Technology** student at **ET
 ---
 
 ### Interests
-- Machine learning and Data Analysis
+- Machine Learning and Data Analysis
 - Computational Neuroscience
 - Global Political Economy
 - International Relations
