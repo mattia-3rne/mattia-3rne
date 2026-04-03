@@ -6,7 +6,7 @@ First-year **Electrical Engineering and Information Technology** student at **ET
 
 ### Technical Skills
 - **Programming & Scientific Computing:** Python, C++, MATLAB, SciPy, TensorFlow, PyTorch, Pandas, Matplotlib
-- **Machine Learning & AI:** Deep Learning, Recurrent Neural Networks, Transformers, Computer Vision, NLP
+- **Machine Learning & AI:** Deep Learning, Reinforcement Learning, Agent-Based Modelling, Computer Vision
 - **Quantitative Analysis:** Regression Models, Clustering, Classification, Dimensionality Reduction
 - **Systems & Tools:** Linux, Git, VS Code, Jupyter, Microsoft 365, GenAI
 
@@ -16,8 +16,8 @@ First-year **Electrical Engineering and Information Technology** student at **ET
 - Machine learning and Data Analysis
 - Computational Neuroscience
 - Global Political Economy
+- International Relations
 - Quantitative Finance
-- International Affairs
 - Western Philosophy
 - Energy Technology
 - World Literature
