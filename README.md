@@ -20,8 +20,8 @@ First-year **Electrical Engineering and Information Technology** student at **ET
 - Quantitative Finance
 - Western Philosophy
 - Energy Technology
-- World Literature
 - Security Studies
+- World Literature
 
 ---
 
