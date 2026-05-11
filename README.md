@@ -22,6 +22,7 @@ First-year **Electrical Engineering and Information Technology** student at **ET
 - Energy Technology
 - Security Studies
 - World Literature
+- Anthropology
 
 ---
 
